@@ -65,3 +65,17 @@ section h2 {
 	background-color: #c8d6e5;
 	color: #2c3e50;
 }
+
+#skillSet h2{
+	margin-bottom: 1em;
+}
+
+#skillSet table{
+	width: 40%;
+	border: 1px solid black;
+	margin: auto;
+}
+
+td {
+	border: 1px solid black;
+}
